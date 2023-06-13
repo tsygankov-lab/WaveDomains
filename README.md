@@ -9,7 +9,7 @@ If you use any part of the scripts in this package, please cite:
 Hladyshau, S., Kho, M., Nie, S. et al. Spatiotemporal development of coexisting wave domains of Rho activity in the cell cortex. Sci Rep 11, 19512 (2021). https://doi.org/10.1038/s41598-021-99029-x
 
 ## WaveDomains
-#2D model and analysis of wave domains is cell cortex
+#2D model and analysis of wave domains in cell cortex
 
 run_RD_system.m - main script for running reaction-diffusion (RD) model. Requires specification of parameters, input folder, folder with supplemental functions and output folder
 
